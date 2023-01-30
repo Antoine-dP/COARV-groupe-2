@@ -1,4 +1,4 @@
 # COARV-groupe-2
-Kawai/Creepy
+Kawaii/Creepy
 
 Version Unity ??
