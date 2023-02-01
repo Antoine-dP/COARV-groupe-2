@@ -63,6 +63,7 @@ public class DissolutionScript : MonoBehaviour
             yield return new WaitForSeconds(0.01f);
         }
         Debug.Log("End coroutine ");
+        this.gameObject.SetActive(false);
     }
 
     private float f(float x)
