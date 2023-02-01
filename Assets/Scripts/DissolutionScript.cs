@@ -20,7 +20,7 @@ public class DissolutionScript : MonoBehaviour
     {
         Debug.Log(collision.gameObject.name);
         Debug.Log(collision.gameObject.layer);
-        if (collision.gameObject.layer == 6)
+        if (!effectOn && collision.gameObject.layer == 6)
         {
             DissolutionFunc();
         }
