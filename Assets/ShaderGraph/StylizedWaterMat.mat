@@ -32,12 +32,12 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _Chopiness: 0.01
+    - _Chopiness: 0.03
     - _FlowSpeed: 0.01
-    - _FlowStrength: 0.075
+    - _FlowStrength: 0.02
     - _FoamDistance: 1.5
     - _NormalOffset: 1
-    - _Size: 2
+    - _Size: 5
     m_Colors:
     - _DarkFoamColor: {r: 0, g: 0.3250314, b: 0.6415094, a: 0}
     - _LightFoamColor: {r: 1, g: 1, b: 1, a: 0}
