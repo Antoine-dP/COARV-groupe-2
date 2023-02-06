@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: f48562004526744488001c76a4922968
+  - enabled: 1
+    path: Assets/Scenes/TheoTest.unity
+    guid: bec480bf4e866b44288729054d1ade40
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 70a8b6b89e951bc4191af052b1d1560e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8dc18430c02461345905b90922fe9e8e, type: 2}
